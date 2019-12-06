@@ -5,3 +5,12 @@ body{
 h1{
     color: greenyellow;
 }
+
+.header{
+    text-align: center;
+    font-display: Arial;
+    color: #ffffff;
+    padding: 10px;
+    background: crimson;
+}
+
