@@ -3,7 +3,7 @@ body{
 }
 
 h1{
-    color: red;
+    color: violet;
 }
 
 .header{
@@ -11,6 +11,6 @@ h1{
     font-family: Arial;
     color: #ffffff;
     padding: 10px;
-    background: blue;
+    background: orange;
 }
 
